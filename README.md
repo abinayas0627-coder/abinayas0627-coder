@@ -22,7 +22,7 @@
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-s-817006/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinaya-s-82784b381)  
 [![Email](https://img.shields.io/badge/Gmail-abinayas0627@gmail.com-red?logo=gmail&logoColor=white)](mailto:abinayas0627@gmail.com)  
 
 ---
