@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 # ✨ Tech with a Touch of Passion 💙:
 
